@@ -1,6 +1,6 @@
 # Repo Structure and Lesson Plan Template
 
-> <span style="color:red">Please remove all blockquote comments such as this before publishing.</span>
+> 
 
 ## Description
 
